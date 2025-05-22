@@ -10,4 +10,8 @@ While this introduces some subjectivity, it's worth noting that even the CME Fed
 
 This project presents a range of rate hike or cut probabilities based on both anchoring approaches, allowing users to interpret the results according to their preferred assumptions.
 
+You can find the .xlsx model that detail the calculation named BoEwatch-calculation-examples.xlsx
+
+As of 22/5/2025, the probability of a rate cut of 25 bps and 75 bps (i.e. 2 rate cut) in the next 2 BoE MPC's meeting is follow:
+
 ![image](https://github.com/user-attachments/assets/45e465fc-27ba-4e12-aceb-74d7f6a27307)
