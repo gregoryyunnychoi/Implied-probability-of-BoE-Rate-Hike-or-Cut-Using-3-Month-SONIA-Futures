@@ -21,4 +21,4 @@ As of **22 May 2025**, the market-implied probabilities of Bank of England (BoE)
 
 ![Rate Cut Probability Chart](https://github.com/user-attachments/assets/45e465fc-27ba-4e12-aceb-74d7f6a27307)
 
-These probabilities suggest that the market expects **at least one rate cut** between June and September 2025. 
+These probabilities suggest that the market expects **at least one rate cut** between June and September 2025. However, there is uncertainty over whether the MPC will implement **one or two cuts** during this period.
