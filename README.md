@@ -12,6 +12,13 @@ This project presents a range of rate hike or cut probabilities based on both an
 
 You can find the .xlsx model that detail the calculation named BoEwatch-calculation-examples.xlsx
 
-As of 22/5/2025, the probability of a rate cut of 25 bps and 75 bps (i.e. 2 rate cut) in the next 2 BoE MPC's meeting is follow:
+### 🔮 Rate Cut Probability as of 22 May 2025
 
-![image](https://github.com/user-attachments/assets/45e465fc-27ba-4e12-aceb-74d7f6a27307)
+As of **22 May 2025**, the market-implied probabilities of Bank of England (BoE) rate cuts at the next two Monetary Policy Committee (MPC) meetings are as follows:
+
+- **84% probability** of two 25bps rate cuts (totaling 50bps) when using the **Mar 2025 (Q2)** SONIA futures contract as the anchor.
+- **37% probability** of two 25bps rate cuts when using the **Sep 2025 (Q4)** SONIA futures contract as the anchor.
+
+![Rate Cut Probability Chart](https://github.com/user-attachments/assets/45e465fc-27ba-4e12-aceb-74d7f6a27307)
+
+These probabilities suggest that the market expects **at least one rate cut** between June and September 2025. The significantly higher probability under the Q2 anchor reflects a stronger expectation of front-loaded easing, while the Q4 anchor scenario reflects more uncertainty or delayed rate action.
