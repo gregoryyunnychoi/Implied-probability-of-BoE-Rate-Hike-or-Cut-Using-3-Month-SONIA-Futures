@@ -21,4 +21,4 @@ As of **22 May 2025**, the market-implied probabilities of Bank of England (BoE)
 
 ![Rate Cut Probability Chart](https://github.com/user-attachments/assets/45e465fc-27ba-4e12-aceb-74d7f6a27307)
 
-These probabilities suggest that the market expects **at least one rate cut** between June and September 2025. The significantly higher probability under the Q2 anchor reflects a stronger expectation of front-loaded easing, while the Q4 anchor scenario reflects more uncertainty or delayed rate action.
+These probabilities suggest that the market expects **at least one rate cut** between June and September 2025. 
