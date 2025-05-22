@@ -9,3 +9,5 @@ This analysis adapts the FedWatch approach to the UK context, using quarterly SO
 While this introduces some subjectivity, it's worth noting that even the CME FedWatch Tool assumes futures prices for months without FOMC meetings are independent of the month following, despite those months being adjacent to decision dates. This suggests that the assumption of a "no-meeting" anchor is not critical to the overall methodology.
 
 This project presents a range of rate hike or cut probabilities based on both anchoring approaches, allowing users to interpret the results according to their preferred assumptions.
+
+![image](https://github.com/user-attachments/assets/45e465fc-27ba-4e12-aceb-74d7f6a27307)
