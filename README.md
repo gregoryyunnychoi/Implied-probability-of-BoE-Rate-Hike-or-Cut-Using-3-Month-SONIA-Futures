@@ -1,6 +1,6 @@
-## Probability of BoE Rate Hike or Cut Using 3-Month SONIA Futures
+## Implied probability of BoE Rate Hike or Cut Using 3-Month SONIA Futures
 
-This project is inspired by the CME's [FedWatch Tool](https://www.cmegroup.com/articles/2023/understanding-the-cme-group-fedwatch-tool-methodology.html), which infers the probability of US Federal Reserve rate changes from Fed Funds futures. While there is no direct UK equivalent, the closest instrument is the Three-Month SONIA Index Futures. Estimating Bank of England (BoE) rate change probabilities is more complex, however, as there is no SONIA futures contract that corresponds to a period without a Monetary Policy Committee (MPC) meeting, which is used in the FedWatch methodology as an "anchor" period.
+This project is inspired by the CME's [FedWatch Tool](https://www.cmegroup.com/articles/2023/understanding-the-cme-group-fedwatch-tool-methodology.html), which infers the probability of US Federal Reserve rate changes from Fed Funds futures. While there is no direct UK equivalent, the closest instrument is the Three-Month SONIA Index Futures. Implying Bank of England (BoE) rate change probabilities is more complex, however, as there is no SONIA futures contract that corresponds to a period without a Monetary Policy Committee (MPC) meeting, which is used in the FedWatch methodology as an "anchor" period.
 
 This analysis adapts the FedWatch approach to the UK context, using quarterly SONIA futures (only four contracts per year). In the absence of a quarter without an MPC meeting, we relax the original assumption that an anchor period must be free of rate-setting meetings. Instead, we calculate probabilities under two scenarios:  
 1. Using the **previous quarter as the anchor**, assuming the implied rate at the start of the quarter remains constant.  
@@ -12,7 +12,9 @@ This project presents a range of rate hike or cut probabilities based on both an
 
 You can find the .xlsx model that detail the calculation named BoEwatch-calculation-examples.xlsx
 
-### 🔮 Rate Cut Probability as of 22 May 2025
+Note: Currently, the market-implied interest rate in the UK, as provided by major data vendors, is derived from the Overnight Indexed Swap (OIS) rate. OIS rates are negotiated over-the-counter (OTC) rather than traded on a standardized exchange or through a central clearinghouse. This OTC nature means that OIS rates are subject to interpolation techniques, which can vary between data providers. Consequently, the rates may not consistently reflect real-time market conditions considering its low liquidity. In contrast, 3-month SONIA futures are exchange-traded instruments with standardized contracts and centralized clearing. They offer greater transparency and are less susceptible to interpolation discrepancies. As a result, the future market often provide a more liquid and accurate reflection of market expectations for short-term interest rates.
+
+### Implied rate cut probability as of 22 May 2025
 
 As of **22 May 2025**, the market-implied probabilities of Bank of England (BoE) rate cuts at the next two Monetary Policy Committee (MPC) meetings are as follows:
 
